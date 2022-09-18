@@ -1,7 +1,7 @@
 # FastKnowledgeGraph
 A fast method for Knowledge Graph construction and application in Chinese medical records and financial news.
 
-Programme 1: TextGrapherSimple
+**Programme 1: TextGrapherSimple**
 
 A simple knowledge graph created by unsupervised methods that called dependency sentence grammar analysis.
 
